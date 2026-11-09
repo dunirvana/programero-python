@@ -19,3 +19,4 @@ docker compose run --rm tests
 
 | Projeto | Post |
 |---|---|
+| [2026-11-cache-aside-fastapi-redis](2026-11-cache-aside-fastapi-redis) | [Cache-aside com FastAPI e Redis](https://programero.blogspot.com/2026/11/cache-aside-fastapi-redis.html) |

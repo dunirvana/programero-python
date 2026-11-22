@@ -13,6 +13,7 @@ jobs:
       matrix:
         project:
           - 2026-11-cache-aside-fastapi-redis
+          - 2026-11-concurrent-calls-asyncio-taskgroup
     steps:
       - uses: actions/checkout@v4
       - name: Build and test
